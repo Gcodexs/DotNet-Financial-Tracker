@@ -34,3 +34,8 @@ Once we are inside the main project directory, we create the backend.
 dotnet new webapi -o Backend
 ```
 This command generates the initial server structure, including configuration files and C# source code.
+
+- `dotnet`: runs the .NET command-line tool.
+- `new`: creates a new project from a template.
+- `webapi`: selects the template for building a web API.
+- `-o Backend`: creates the project files inside a directory named `Backend`.
