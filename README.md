@@ -24,7 +24,7 @@ mkdir -p Documents/DotNet-Financial-Tracker
 - `-p`: creates any necessary parent directories and avoids errors if they already exist.
 - `Documents/DotNet-Financial-Tracker`: specifies the path and name of the directory.
 
-- ## Creating the Backend with .NET 10
+## Creating the Backend with .NET 10
 
 Once we are inside the main project directory, we create the backend.
 
