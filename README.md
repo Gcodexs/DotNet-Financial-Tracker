@@ -10,6 +10,7 @@ The backend is the server responsible for processing requests from the frontend.
 I used SQLite as the database, which can store information in a local file named `financial.db`.
 
 
+<img width="1763" height="836" alt="01" src="https://github.com/user-attachments/assets/f2a0cf1b-fb2d-4f21-9518-9f49bc810a7c" />
 
 
 ## Creating the Main Project Folder
