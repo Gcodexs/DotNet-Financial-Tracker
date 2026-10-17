@@ -20,3 +20,17 @@ Before building the application, we need to organize the files inside a main pro
 ```bash
 mkdir -p Documents/DotNet-Financial-Tracker
 ```
+- `mkdir`: creates a directory.
+- `-p`: creates any necessary parent directories and avoids errors if they already exist.
+- `Documents/DotNet-Financial-Tracker`: specifies the path and name of the directory.
+
+- ## Creating the Backend with .NET 10
+
+Once we are inside the main project directory, we create the backend.
+
+**Command used in the terminal:**
+
+```bash
+dotnet new webapi -o Backend
+```
+This command generates the initial server structure, including configuration files and C# source code.
